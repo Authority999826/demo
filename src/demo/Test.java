@@ -2,6 +2,6 @@ package demo;
 
 public class Test {
 	private void mian() {
-		    System.out.println();
+		    System.out.println(1232);
 	}
 }
